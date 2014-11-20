@@ -1,0 +1,23 @@
+body{
+	background: #758eb4;
+color:white;
+font-family: 'Francois One', sans-serif;
+}
+
+h1{
+	font-family: 'Bree Serif', serif;
+}
+
+.ui.grid>.column{
+	margin:0;
+}
+
+h1.message{
+	display:white;
+	font-size: 5.5em;
+	padding:0;
+	margin:0;
+}
+div{
+	padding:3% 0;
+}
